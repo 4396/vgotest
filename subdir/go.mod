@@ -1,1 +1,1 @@
-module github.com/4396/vgotest/subdir
+module github.com/4396/vgotest/subdir/v2
