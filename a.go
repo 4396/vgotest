@@ -1,3 +1,3 @@
 package vgotest
 
-const Message = "vgotest-v2.1.0"
+const Message = "vgotest-v2.1.1"
